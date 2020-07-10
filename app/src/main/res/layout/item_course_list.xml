@@ -41,7 +41,7 @@
                 app:layout_constraintStart_toStartOf="@+id/text_course"
                 app:layout_constraintTop_toBottomOf="@+id/text_course"
                 app:srcCompat="@drawable/ic_menu_slideshow"
-                android:contentDescription="TODO" />
+                />
 
         </androidx.constraintlayout.widget.ConstraintLayout>
 
